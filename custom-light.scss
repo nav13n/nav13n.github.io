@@ -63,6 +63,7 @@ body {
 .navbar {
   padding: 1rem 0;
   backdrop-filter: blur(10px);
+  border-bottom: none !important;
   
   .navbar-container {
     @extend %container-common;
