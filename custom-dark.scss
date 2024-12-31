@@ -316,3 +316,40 @@ body {
   }
 }
 
+// Footer styles
+.footer {
+  padding: 1rem 0;
+  backdrop-filter: blur(10px);
+  
+  .footer-container {
+    @extend %container-common;
+  }
+
+  .nav-footer {
+    @extend %container-common;
+    color: $gray-300;
+    
+    a {
+      color: $gray-300;
+      text-decoration: none;
+      transition: color 0.2s ease;
+      
+      &:hover {
+        color: $primary;
+      }
+    }
+  
+    .fa-heart {
+      display: inline-block;
+      margin: 0 0.2rem;
+      font-size: 0.9em;
+      animation: heartbeat 1.5s ease infinite;
+    }
+  }
+  
+  @keyframes heartbeat {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+}

@@ -21,6 +21,8 @@ website:
       #   href: https://www.linkedin.com/in/nav13n
   page-footer:
     right: |
+      Made with <i class="fa-solid fa-heart" style="color: #ff0000;"></i> using [Quarto](https://quarto.org)
+    left: |
       © 2024 Naveen Kumar Pandey
 
 

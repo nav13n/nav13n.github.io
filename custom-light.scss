@@ -239,11 +239,11 @@ body {
   }
 
   .twitter {
-    color: #1DA1F2;
-    background: rgba(29, 161, 242, 0.1);
+    color: #000000;
+    background: rgba(0, 0, 0, 0.1);
     
     &:hover {
-      background: rgba(29, 161, 242, 0.15);
+      background: rgba(0, 0, 0, 0.15);
       transform: translateY(-2px);
     }
   }
@@ -312,6 +312,44 @@ body {
       height: 3rem;
       font-size: 1.4rem;
     }
+  }
+}
+
+// Footer styles
+.footer {
+  padding: 1rem 0;
+  backdrop-filter: blur(10px);
+  
+  .footer-container {
+    @extend %container-common;
+  }
+
+  .nav-footer {
+    @extend %container-common;
+    color: $gray-700;
+    
+    a {
+      color: $gray-700;
+      text-decoration: none;
+      transition: color 0.2s ease;
+      
+      &:hover {
+        color: $primary;
+      }
+    }
+  
+    .fa-heart {
+      display: inline-block;
+      margin: 0 0.2rem;
+      font-size: 0.9em;
+      animation: heartbeat 1.5s ease infinite;
+    }
+  }
+  
+  @keyframes heartbeat {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
   }
 }
 
