@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to My Blog\n\n\n\n\n\n\npersonal\n\n\n\nFirst post on my new website\n\n\n\n\n\nJan 1, 2025\n\n\nNaveen Kumar Pandey\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m an ML Engineer and Engineering Leader with over 13 years of experience in building and scaling AI systems. Currently, I lead AI initiatives at Jio Platforms, where we’re developing cutting-edge products that leverage the latest in artificial intelligence and machine learning.\n\n\n\nAI & Machine Learning: Deep experience in GenAI, LLMs, and Computer Vision\nSystem Architecture: Designing and scaling cloud-native platforms\nEngineering Leadership: Building and mentoring high-performing teams\nMLOps: Implementing production ML pipelines and best practices\n\n\n\n\n\n\nEngineering Leader - Leading teams developing AI-powered products across verticals - Scaling ML systems for production environments - Mentoring and growing engineering talent\n\n\n\nSenior Software Engineer - Developed autonomous vehicle mapping technology - Implemented computer vision algorithms for real-time processing - Built scalable data processing pipelines\n\n\n\nBackend Infrastructure Lead - Architected high-performance social app infrastructure - Scaled systems to handle millions of users - Optimized database and caching layers\n\n\n\nTechnical Lead - Led Mobile Banking Framework Development - Created financial services solutions - Implemented enterprise-scale systems\n\n\n\n\n\n\nLanguages: Python, Java, Go\nML/AI: PyTorch, TensorFlow, Hugging Face\nCloud: AWS, GCP, Azure\nInfrastructure: Kubernetes, Docker, Terraform\nDatabases: PostgreSQL, MongoDB, Redis\n\n\n\n\n\n\n\n\n🌍 Based in India\n💻 13+ years in tech\n🤖 AI enthusiast\n📚 Continuous learner\n🍳 Amateur chef\n\n\n\n\n\n  \n\n\n\n\nBeyond technology, I’m passionate about:\n\n📖 Reading tech blogs and papers\n🍳 Experimenting with cooking\n📚 Exploring new books"
+  },
+  {
+    "objectID": "about.html#professional-journey",
+    "href": "about.html#professional-journey",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m an ML Engineer and Engineering Leader with over 13 years of experience in building and scaling AI systems. Currently, I lead AI initiatives at Jio Platforms, where we’re developing cutting-edge products that leverage the latest in artificial intelligence and machine learning.\n\n\n\nAI & Machine Learning: Deep experience in GenAI, LLMs, and Computer Vision\nSystem Architecture: Designing and scaling cloud-native platforms\nEngineering Leadership: Building and mentoring high-performing teams\nMLOps: Implementing production ML pipelines and best practices\n\n\n\n\n\n\nEngineering Leader - Leading teams developing AI-powered products across verticals - Scaling ML systems for production environments - Mentoring and growing engineering talent\n\n\n\nSenior Software Engineer - Developed autonomous vehicle mapping technology - Implemented computer vision algorithms for real-time processing - Built scalable data processing pipelines\n\n\n\nBackend Infrastructure Lead - Architected high-performance social app infrastructure - Scaled systems to handle millions of users - Optimized database and caching layers\n\n\n\nTechnical Lead - Led Mobile Banking Framework Development - Created financial services solutions - Implemented enterprise-scale systems"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Languages: Python, Java, Go\nML/AI: PyTorch, TensorFlow, Hugging Face\nCloud: AWS, GCP, Azure\nInfrastructure: Kubernetes, Docker, Terraform\nDatabases: PostgreSQL, MongoDB, Redis"
+  },
+  {
+    "objectID": "blog/posts/2025-01-01-first-post/index.html",
+    "href": "blog/posts/2025-01-01-first-post/index.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "Welcome to my blog! This space will be dedicated to sharing my thoughts and experiences in:\n\nAI and Machine Learning\nSystem Architecture\nEngineering Leadership\nTechnology Trends\nPersonal Growth\n\nStay tuned for more content coming soon!"
+  }
+]
