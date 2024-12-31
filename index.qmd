@@ -6,7 +6,7 @@ page-layout: custom
 ::: {.landing-container}
 ::: {.landing-content}
 # Hey, I am Naveen!
-##### ML Engineer and Engineering Leader
+<!-- ##### ML Engineer and Engineering Leader -->
 
 I'm an ML engineer and engineering leader passionate about AI, machine learning, and scalable systems. At Jio Platforms, I lead teams developing AI-powered products across various verticals.
 
