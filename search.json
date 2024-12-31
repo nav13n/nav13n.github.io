@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Welcome to My Blog\n\n\n\n\n\n\npersonal\n\n\n\nFirst post on my new website\n\n\n\n\n\nJan 1, 2025\n\n\nNaveen Kumar Pandey\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -33,5 +26,12 @@
     "title": "Welcome to My Blog",
     "section": "",
     "text": "Welcome to my blog! This space will be dedicated to sharing my thoughts and experiences in:\n\nAI and Machine Learning\nSystem Architecture\nEngineering Leadership\nTechnology Trends\nPersonal Growth\n\nStay tuned for more content coming soon!"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to My Blog\n\n\n\n\n\n\npersonal\n\n\n\nFirst post on my new website\n\n\n\n\n\nJan 1, 2025\n\n\nNaveen Kumar Pandey\n\n\n\n\n\n\nNo matching items"
   }
 ]

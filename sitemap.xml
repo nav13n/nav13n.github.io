@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nav13n.github.io/blog/index.html</loc>
-    <lastmod>2024-12-31T20:01:55.125Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nav13n.github.io/index.html</loc>
-    <lastmod>2024-12-31T20:01:55.125Z</lastmod>
-  </url>
-  <url>
     <loc>https://nav13n.github.io/about.html</loc>
-    <lastmod>2024-12-31T20:01:55.117Z</lastmod>
+    <lastmod>2024-12-31T20:10:46.721Z</lastmod>
   </url>
   <url>
     <loc>https://nav13n.github.io/blog/posts/2025-01-01-first-post/index.html</loc>
-    <lastmod>2024-12-31T20:01:55.125Z</lastmod>
+    <lastmod>2024-12-31T20:10:46.726Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nav13n.github.io/index.html</loc>
+    <lastmod>2024-12-31T20:10:46.726Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nav13n.github.io/blog/index.html</loc>
+    <lastmod>2024-12-31T20:10:46.726Z</lastmod>
   </url>
 </urlset>
