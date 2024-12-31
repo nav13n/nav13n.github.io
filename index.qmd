@@ -1,30 +1,27 @@
 ---
-title: ""
-subtitle: ""
-about:
-  template: jolla
-  image: assets/profile.jpg
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/nav13n
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/nav13n
+title: "Naveen Kumar Pandey"
+page-layout: custom
 ---
 
-# Hey! I'm Naveen
+::: {.landing-container}
+::: {.landing-content}
+# Hey, I 'am Naveen!
+##### ML Engineer and Engineering Leader
 
-I'm an ML engineer and engineering leader passionate about AI, machine learning, and scalable systems. 
-At Jio Platforms, I lead teams developing AI-powered products across various verticals.
-</br> 
-</br> Over the past 13 years, I've led products and teams from 0-1 and beyond, scaled AI systems and backend services, and architected cloud-native platforms powering critical business operations. My expertise spans GenAI, Computer Vision, and MLOps, focusing on optimizing ML pipelines for real-world applications. 
-</br> 
-</br> Before Jio, I contributed to autonomous vehicle map technology at Civil Maps, built high-performance backend infrastructure for social apps at Science Inc, developed financial services at GE, and led Mobile Banking Framework Development at Oracle. 
-</br> 
-</br> In my free time, I enjoy exploring emerging technologies, mentoring aspiring engineers, and experimenting with cooking.
+I'm an ML engineer and engineering leader passionate about AI, machine learning, and scalable systems. At Jio Platforms, I lead teams developing AI-powered products across various verticals.
 
+I've spent over 13 years leading products and teams from 0-1 and beyond, scaling AI systems and backend services, and architecting cloud-native platforms powering critical business operations. My expertise spans GenAI, Computer Vision, and MLOps, focusing on optimizing ML pipelines and scaling ML products for real-world applications.
 
+In my free time, I enjoy exploring emerging technologies, mentoring aspiring engineers, and experimenting with cooking.
 
+::: {.social-links}
+[<i class="fa-brands fa-github"></i>](https://github.com/nav13n){.github}
+[<i class="fa-brands fa-x-twitter"></i>](https://x.com/naveenpnd){.twitter}
+[<i class="fa-brands fa-linkedin-in"></i>](https://www.linkedin.com/in/nav13n){.linkedin}
+:::
+:::
 
-
+::: {.landing-image}
+![](assets/profile.jpg)
+:::
+:::

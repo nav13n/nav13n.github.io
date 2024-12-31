@@ -1,0 +1,87 @@
+---
+title: "About Me"
+page-layout: article
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8}
+
+## Professional Journey
+
+I'm an ML Engineer and Engineering Leader with over 13 years of experience in building and scaling AI systems. Currently, I lead AI initiatives at Jio Platforms, where we're developing cutting-edge products that leverage the latest in artificial intelligence and machine learning.
+
+### Areas of Expertise
+
+- **AI & Machine Learning**: Deep experience in GenAI, LLMs, and Computer Vision
+- **System Architecture**: Designing and scaling cloud-native platforms
+- **Engineering Leadership**: Building and mentoring high-performing teams
+- **MLOps**: Implementing production ML pipelines and best practices
+
+### Career Highlights
+
+#### Jio Platforms
+*Engineering Leader*
+- Leading teams developing AI-powered products across verticals
+- Scaling ML systems for production environments
+- Mentoring and growing engineering talent
+
+#### Civil Maps
+*Senior Software Engineer*
+- Developed autonomous vehicle mapping technology
+- Implemented computer vision algorithms for real-time processing
+- Built scalable data processing pipelines
+
+#### Science Inc
+*Backend Infrastructure Lead*
+- Architected high-performance social app infrastructure
+- Scaled systems to handle millions of users
+- Optimized database and caching layers
+
+#### GE 
+*Technical Lead*
+- Led Mobile Banking Framework Development
+- Created financial services solutions
+- Implemented enterprise-scale systems
+
+## Technical Skills
+
+- **Languages**: Python, Java, Go
+- **ML/AI**: PyTorch, TensorFlow, Hugging Face
+- **Cloud**: AWS, GCP, Azure
+- **Infrastructure**: Kubernetes, Docker, Terraform
+- **Databases**: PostgreSQL, MongoDB, Redis
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+![](assets/profile.jpg){.rounded}
+
+### Quick Facts
+
+- 🌍 Based in India
+- 💻 13+ years in tech
+- 🤖 AI enthusiast
+- 📚 Continuous learner
+- 🍳 Amateur chef
+
+### Connect With Me
+
+::: {.social-links}
+[![GitHub](https://img.shields.io/github/followers/nav13n?style=social)](https://github.com/nav13n)
+[![Twitter](https://img.shields.io/twitter/follow/nav13n?style=social)](https://twitter.com/nav13n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nav13n)
+:::
+
+### Interests
+
+Beyond technology, I'm passionate about:
+
+- 📖 Reading tech blogs and papers
+- 🍳 Experimenting with cooking
+- 📚 Exploring new books
+
+:::
+
+:::

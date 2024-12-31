@@ -1,0 +1,17 @@
+---
+title: "Welcome to My Blog"
+description: "First post on my new website"
+author: "Naveen Kumar Pandey"
+date: "2025-01-01"
+categories: [personal]
+---
+
+Welcome to my blog! This space will be dedicated to sharing my thoughts and experiences in:
+
+- AI and Machine Learning
+- System Architecture
+- Engineering Leadership
+- Technology Trends
+- Personal Growth
+
+Stay tuned for more content coming soon!
